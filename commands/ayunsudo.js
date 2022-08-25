@@ -1,0 +1,1 @@
+bot.core(`essentials:esudo  * ${args.join(' ')}`)

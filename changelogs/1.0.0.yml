@@ -1,0 +1,6 @@
+title: The first official release
+added: 
+    - Filter globs
+    - Bigger core
+removed:
+    - Title on filter

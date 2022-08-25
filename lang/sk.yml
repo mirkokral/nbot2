@@ -1,0 +1,7 @@
+language.test: "Ahoj, svet!"
+language.invalid: "Ahoj %"
+command.setLang.success: "Jazyk je teraz %s"
+cloop.removed: "Odstránený opakovač príkazov"
+cloop.added: "Pridané %s do opakovačov príkazov s intervalom %s ms"
+command.indev: "Príkaz je vo vývoji!"
+command.setLang.fail: "Jazyk %s neexistuje!"

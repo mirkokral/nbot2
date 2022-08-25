@@ -1,0 +1,1 @@
+bot.chat('&cThis command is nothing...')

@@ -1,0 +1,6 @@
+title: Bugfixes, languages and reload command
+added:
+  - Bugfixes
+  - setLang command
+  - Translate function in code to translate from language
+  - Reload command to reload translations

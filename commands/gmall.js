@@ -1,0 +1,1 @@
+bot.core(`execute unless entity @s[name= run ] run gamemode ${args[0]} @a`)

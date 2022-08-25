@@ -1,0 +1,1 @@
+bot.EEEE = !bot.EEEE

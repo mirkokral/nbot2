@@ -1,0 +1,59 @@
+prefix: ";"
+keyInt: 153521
+discord:
+  token: "MTAwMjI3MzA2NDM2NjY0NTI3OA.GgWfQR.swC-gpdc-mEw20-oZa9KphKZKTEphacOAc7clQ"
+  channel: "1002291990702084186"
+  hchannel: "1004265911194222653"
+ops:
+  - "mirkokral"
+  - "mirko"
+  - "GaryStens"
+  - "RealDinhero21"
+  - "Conquestor"
+  - "thefish"
+  - "MorganAnkan"
+  - "chayapak"
+version: 1.18.2
+botMetadata:
+  version: 1.2.1
+betterUsername: false
+whitelist: 
+  - "mirkokral"
+  - "mirko"
+  - "GaryStens"
+  - "MorganAnkan"
+servers:
+  - name: "ayunboom"
+    host: "sus.shhnowisnottheti.me"
+    port: 25565
+  # - name: 'kaboom'
+  #   host: 'kaboom.pw'
+  #   port: 25565
+  # - name: 'kitsune'
+  #   host: 'kitsune.icu'
+  #   port: 25565
+hexcolors: false
+corePos:
+  x: 200000
+  y: 200
+  z: 200000
+ad:
+  interval: 4 * 60 * 1000
+plugins:
+  - "position.js"
+  - "core.js"
+  - "selfcare.js"
+  - "cloop.js"
+  # - "framebuffer.js"
+  - "commands.js"
+  - "players.js"
+  - "filter.js"
+  - "ad.js"
+  - "vm.js"
+  - "minimal.js"
+  - "discord.js"
+  - "afterload.js"
+  - "test.js"
+  - "bruhify.js"
+  - "kbwl.js"
+  - "tick.js"

@@ -1,0 +1,811 @@
+bohpj joined the game
+Vr3nBotW fell from a high place
+Vanish for bohpj: enabled
+You are now completely invisible to normal users, and hidden from in-game commands.
+Successfully set your username to "NightBot"
+Teleporting...
+cha510x joined the game
+Teleporting...
+Nothing changed. The player already is an operator
+Successfully filled 29791 blocks
+Successfully filled 1 blocks
+Vr3nBotW fell from a high place
+NightBot is a utility bot made by mirkokral
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+Vr3nBotW fell from a high place
+GBot left the game
+Vr3nBotW fell from a high place
+NightBot | [console] mirko: didn't know kaboom didn't die yet
+Vr3nBotW fell from a high place
+GBot_wgQ joined the game
+[OP] GBot: GBot | Developed by GaryStens!
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+GBot left the game
+Vr3nBotW fell from a high place
+Orange left the game
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+GBot_tVK joined the game
+[OP] GBot: GBot | Developed by GaryStens!
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+[OP] itproggeruz: gbot
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+[cha510x] <> ?eval run a
+Eval / SyntaxError: Unexpected identifier
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+Orange joined the game
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+Vr3nBotW fell from a high place
+[kidman00: Shrinking the world border to 10.0 blocks wide over 3 seconds]
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+test00001 fell from a high place
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+Vr3nBotW fell from a high place
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+logs_Ybw63l suffocated in a wall
+SpawnBot suffocated in a wall
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+test00001 suffocated in a wall
+Vr3nBotW suffocated in a wall
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+itproggeruz left the game
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+NightBot | vm.js:1
+run setInterval(()=>{},100)
+ ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+ at new Script (node:vm:100:7)
+ at VM.run (/home/pi/nbot/node_modules/vm2/lib/vm.js:495:13)
+ at eval (eval at <anonymous> (/home/pi/nbot/index.js:115:13), <anonymous>:2:23)
+ at Interface.<anonymous> (/home/pi/nbot/index.js:115:13)
+ at Interface.emit (node:events:513:28)
+ at [_onLine] [as _onLine] (node:internal/readline/interface:425:12)
+ at [_line] [as _line] (node:internal/readline/interface:886:18)
+ at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1264:22)
+ at ReadStream.onkeypress (node:internal/readline/interface:273:20)
+ at ReadStream.emit (node:events:513:28)
+[OP] Gary_363: STOP
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+[kidman00: Set the world border to 20.0 blocks wide]
+Orange left the game
+[cha510x: Set the world border to 1000000.0 blocks wide]
+NightBot | [console] mirko: ill make core one step bigger and add cloop
+[kidman00: Set the world border to 20.0 blocks wide]
+NightBot | [DISCORD] mirkokral › trol
+[kidman00: Set the world border to 200.0 blocks wide]
+[kidman00: Set the world border to 1.0 blocks wide]
+NightBot | [DISCORD] mirkokral › \@ everyone get real
+[kidman00: Set the world border to 2.0 blocks wide]
+Player984 left the game
+[kidman00: Set the world border to 20.0 blocks wide]
+Orange joined the game
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[kidman00: Set the world border to 1.0 blocks wide]
+Ramazan17 joined the game
+[cha510x: Made kidman00 no longer a server operator]
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+[OP] HBot: Say #help in chat for a list of commands or say #help [command] for more detail on a command.
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[kidman00: Made kidman00 a server operator]
+[kidman00: Set the world border to 1.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[kidman00: Set the world border to 1.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[kidman00: Set the world border to 1.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[kidman00: Set the world border to 10.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[Ramazan17: Made kidman00 no longer a server operator]
+[kidman00: Made kidman00 a server operator]
+[kidman00: Set the world border to 10.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[kidman00: Set the world border to 10.0 blocks wide]
+itproggeruz joined the game
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[Ramazan17: Made kidman00 no longer a server operator]
+[kidman00: Made kidman00 a server operator]
+[Ramazan17: Made kidman00 no longer a server operator]
+[kidman00: Made kidman00 a server operator]
+[kidman00: Set the world border to 10.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[Ramazan17: Made kidman00 no longer a server operator]
+[kidman00: Made kidman00 a server operator]
+[kidman00: Set the world border to 10.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[kidman00: Set the world border to 10.0 blocks wide]
+[cha510x: Set the world border to 1000000.0 blocks wide]
+[Player555: Made Ramazan17 no longer a server operator]
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+NightBot | [console] mirko: STOP mAGING @A NIOT OP
+NightBot | Stopping: Interrupted from console!
+abv8djm04sH joined the game
+Ramazan17 tried to swim in lava
+Vanish for abv8djm04sH: enabled
+You are now completely invisible to normal users, and hidden from in-game commands.
+Successfully set your username to "NightBot"
+Teleporting...
+Teleporting...
+Nothing changed. The player already is an operator
+Too many blocks in the specified area (maximum 32768, specified 34596)
+Too many blocks in the specified area (maximum 32768, specified 34596)
+NightBot | Logged into discord!
+NightBot is a utility bot made by mirkokral
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+Ramazan17 tried to swim in lava
+Ramazan17 tried to swim in lava
+Ramazan17 tried to swim in lava
+[OP] itproggeruz: ?
+Ramazan17 tried to swim in lava
+Ramazan17 tried to swim in lava
+[OP] Gary_363: nightbot almost crashed me ugh
+[OP] itproggeruz: ?help
+Ramazan17 tried to swim in lava
+Ramazan17 tried to swim in lava
+NightBot | Stopping: Interrupted from console!
+eqZwORKg52Qn joined the game
+Vanish for eqZwORKg52Qn: enabled
+You are now completely invisible to normal users, and hidden from in-game commands.
+Successfully set your username to "NightBot"
+Teleporting...
+Ramazan17 tried to swim in lava
+Teleporting...
+Nothing changed. The player already is an operator
+Successfully filled 2887 blocks
+NightBot | Logged into discord!
+NightBot is a utility bot made by mirkokral
+Successfully filled 3 blocks
+Ramazan17 tried to swim in lava
+test00001 suffocated in a wall
+[OP] itproggeruz: ?help
+logs_Ybw63l suffocated in a wall
+Vr3nBotW suffocated in a wall
+SpawnBot suffocated in a wall
+test00001 tried to swim in lava
+Ramazan17 tried to swim in lava
+Ramazan17 tried to swim in lava
+test00001 tried to swim in lava
+Vr3nBotW tried to swim in lava
+logs_Ybw63l tried to swim in lava
+[OP] Gary_363: use /say <> ?help idiot
+logs_Ybw63l fell from a high place
+Vr3nBotW fell from a high place
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+Ramazan17 fell from a high place
+test00001 fell from a high place
+[Ramazan17: Made Ramazan17 a server operator]
+logs_Ybw63l fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+[OP] itproggeruz: ok
+logs_Ybw63l fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+[OP] itproggeruz: im idiont
+logs_Ybw63l fell from a high place
+Vr3nBotW fell from a high place
+[Player555: Kicked Ramazan17: Kicked by an operator]
+test00001 fell from a high place
+SpawnBot drowned
+logs_Ybw63l fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+[Player555: Kicked Ramazan17: Kicked by an operator]
+[Player555: Kicked Ramazan17: Kicked by an operator]
+[Player555: Kicked Ramazan17: Kicked by an operator]
+[Ramazan17: Made Player555 no longer a server operator]
+logs_Ybw63l fell from a high place
+Vr3nBotW fell from a high place
+test00001 fell from a high place
+[OP] itproggeruz: im idiot
+[Ramazan17: Made kidman00 no longer a server operator]
+logs_Ybw63l fell from a high place
+[OP] Gary_363: lmao
+[DeOP] Player555: Ramazan17 kick
+[OP] Gary_363: test
+Vr3nBotW fell from a high place
+test00001 left the game
+Vr3nBotW left the game
+tMSNu8VdwdnGliJ_ left the game
+logs_Ybw63l left the game
+[itproggeruz] <> ?help
+GBot left the game
+logs_Tnnok- joined the game
+[logs_Tnnok-: Set own game mode to Spectator Mode]
+[OP] logs_Tnnok-: Bot made by bartoszm77. You can join discord here: https://discord.gg/HD3E7QHKUw
+LlBV1poJE6h9Pbv9 joined the game
+asd92 joined the game
+logs_Tnnok- fell out of the world
+GBot_AN0 joined the game
+[OP] GBot: GBot | Developed by GaryStens!
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+[OP] HBot: Join the HBot Discord at discord.gg/5wv6xQEj9X!
+logs_Tnnok- fell out of the world
+[kidman00: Made kidman00 a server operator]
+[kidman00: Made Player555 a server operator]
+Player555 left the game
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The chat has been cleared
+[OP] kidman00: ?help
+[cha510x: Changed the block at -138, 74, -493]
+[AverageLake7073: Saved the game]
+[cha510x: Changed the block at -140, 74, -492]
+Ramazan17 left the game
+[cha510x] <> ?help
+May death rain upon them.
+Commands - help, refillcore, creator, broadcast, echo, cb, botuser, clearchat, startupanim, eval, newhash, restart
+May death rain upon them.
+May death rain upon them.
+May death rain upon them.
+May death rain upon them.
+NightBot | [console] mirko: ok
+[OP] AverageLake7073: hi
+[OP] AverageLake7073: lmao
+[OP] itproggeruz: hi
+[OP] AverageLake7073: i'm an idiot
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+[OP] AverageLake7073: yeah
+[OP] AverageLake7073: ur right im an idiot
+[OP] AverageLake7073: LMAO
+[OP] AverageLake7073: HAHA
+NightBot | [console] mirko: i created CalculateCorePosFromCommandLoopID
+[cha510x] ok
+[OP] SGbot: f
+[itproggeruz] all ok id
+[cha510x] lmao
+GBot left the game
+[OP] SGbot: [
+[OP] SGbot: [
+[OP] SGbot: [
+[OP] SGbot: [
+GBot_Gen joined the game
+[OP] SGbot: [
+[OP] GBot: GBot | Developed by GaryStens!
+[OP] SGbot: [
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+Also, don't forget to join my discord by clicking this message.
+AverageLake7073 left the game
+AverageLake7073 joined the game
+[OP] Gary_363: ur not real
+[OP] Gary_363: ur such a faker
+[OP] AverageLake7073: GBot is fake
+[OP] Gary_363: yeah
+[OP] SGbot: yea
+[itproggeruz] <> ;help
+[OP] HBot: Say #help in chat for a list of commands or say #help [command] for more detail on a command.
+[OP] SGbot: i me too fake
+[OP] SGbot: XD
+[OP] itproggeruz: how? name is purple
+[OP] SGbot: lol
+[OP] SGbot: i'm gary
+asd92 left the game
+[OP] Gary_363: lmao
+[OP] Gary_363: LMAO
+asd92 joined the game
+[OP] GBot: GBot prefix is ?, Type ?help for a list of commands.
+[OP] Gary_363: LOL
+[OP] SGbot: not me who me troole ?
+fIqq5yh9kkI joined the game
+Vanish for fIqq5yh9kkI: enabled
+You are now completely invisible to normal users, and hidden from in-game commands.
+Successfully set your username to "NightBot"
+Teleporting...
+Teleporting...
+Nothing changed. The player already is an operator
+NightBot is a utility bot made by mirkokral
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+There are 2/1 out of maximum 0 players online.
+Players: [HIDDEN]NightBot, SpawnBot, VC6pDlQz4twswgGU
+NightBot | [console] mirko: kaboom kinda non-drip rn
+NightBot | [console] mirko: lemme check ayunboom
+NightBot | Stopping: Interrupted from console!
