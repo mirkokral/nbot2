@@ -103,7 +103,7 @@
             bot.core(say({text:e,color:'red'}));
           }
         } else
-          msg.reply('Command not found!').then(emsg => emsg.delete({timeout: 2000}))
+          msg.reply('Command not found!').then(emsg => emsg.delete({timeout: 5000}))
       } else {
       await bot.bcore(
         say([
@@ -142,5 +142,5 @@
       );
     }}
   });
-  bot.discord.client.login(config.discord.token);
+  bot.discord.client.login(process.env.token);
 })();
