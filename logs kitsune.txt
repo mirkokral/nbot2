@@ -416524,3 +416524,35 @@ G8ZzbTmrgfLsyYKG left the game
 ChomeNS Bot - a bot made by chayapak
 9BXC7l0gtTvTTi2I: /minecraft:fill -96 0 112 -81 0 127 command_block{CustomName:'{"text":"ChomeNS Bot Core","color":"yellow"}'}
 [9BXC7l0gtTvTTi2I: Successfully filled 1 blocks]
+[OP] HBot: Say #help in chat for a list of commands or say #help [command] for more detail on a command.
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+Also, don't forget to join my discord by clicking this message.
+[OP] HBot: Join the HBot Discord at discord.gg/5wv6xQEj9X!
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+Also, don't forget to join my discord by clicking this message.
+[OP] HBot: Say #help in chat for a list of commands or say #help [command] for more detail on a command.
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+Also, don't forget to join my discord by clicking this message.
+[OP] HBot: Join the HBot Discord at discord.gg/5wv6xQEj9X!
+9BXC7l0gtTvTTi2I left the game
+naOR3fUp9qmAtJuM joined the game
+naOR3fUp9qmAtJuM: /extras:prefix &8[&eChomeNS Bot&8]
+naOR3fUp9qmAtJuM: /commandspy:commandspy on
+naOR3fUp9qmAtJuM: /essentials:vanish enable
+naOR3fUp9qmAtJuM: /minecraft:fill -80 0 96 -65 0 111 command_block{CustomName:'{"text":"ChomeNS Bot Core","color":"yellow"}'}
+[naOR3fUp9qmAtJuM: Successfully filled 256 blocks]
+[OP] HBot: Say #help in chat for a list of commands or say #help [command] for more detail on a command.
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
+Also, don't forget to join my discord by clicking this message.
+naOR3fUp9qmAtJuM left the game
+T37z joined the game
+Successfully enabled CommandSpy
+T37z: /op @s[type=player]
+Nothing changed. The player already is an operator
+NightBot is a utility bot made by mirkokral
+NightBot | Hi, i am NightBot.
+My prefix is ";", type ;help for a list of commands!
