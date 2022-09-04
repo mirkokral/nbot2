@@ -3,7 +3,7 @@ if (!config.ops.map(e => e.toLowerCase()).includes(username.toLowerCase()) && ve
   bots[opts.name].core(
     tellraw("@a", [
       {
-        text: "NightBot",
+        text: config.botMetadata.name,
         color: "yellow",
       },
       {
@@ -28,7 +28,7 @@ if (!config.ops.map(e => e.toLowerCase()).includes(username.toLowerCase()) && ve
   bots[opts.name].core(
     tellraw("@a", [
       {
-        text: "NightBot",
+        text: config.botMetadata.name,
         color: "yellow",
       },
       {

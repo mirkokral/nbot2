@@ -84,7 +84,7 @@ bot.on("chat", (username) => {
         bot.bcore(
           `mute ${
             username.split(" ")[0]
-          } 10y &cFiltered by &eNightbot`.replaceAll("&", "\u00A7"),
+          } 10y &cFiltered by &e${config.botMetadata.name}`.replaceAll("&", "\u00A7"),
           5,
           -10,
           5

@@ -4,7 +4,7 @@ const { Midi } = require("@tonejs/midi");
 const { download } = require("./songdownloader.js");
 const { Worker, isMainThread } = require("worker_threads");
 //TODO: queue and loop support 
-
+const config = require('yaml').parse(fs.readFileSync('./config.yml', 'utf-8'))
 class MusicPlayer {
   queue = [];
   playing = false;
@@ -170,7 +170,7 @@ class MusicPlayer {
   }
 
   actionBar() {
-    let message = `§eNightBot §8| §a${this.queue[0].name} §8| §a${this.timeFormat(Math.floor(this.playtime.current/*/1000*/))}§8/§a${this.timeFormat(this.playtime.total/*/1000*/)}`;
+    let message = `§e${config.botMetadata.name} §8| §a${this.queue[0].name} §8| §a${this.timeFormat(Math.floor(this.playtime.current/*/1000*/))}§8/§a${this.timeFormat(this.playtime.total/*/1000*/)}`;
     if(this.looping != 0) {
       let lop;
       if(this.looping === 1) lop = "Current";
@@ -182,7 +182,7 @@ class MusicPlayer {
   
   // TODO: [###......]
   progressActionBar(percentage, type = "Reading file", bar = true) { // ah boolean
-    let message = `§eNightBot §8|`;
+    let message = `§e${config.botMetadata.name} §8|`;
     if(Array.isArray(percentage) && Array.isArray(type)) {
       percentage.forEach((p,i) => {
         message += ` §7${type[i]} §a${p}%§7/§a100% §8|`;
@@ -278,7 +278,7 @@ class MusicPlayer {
           this.progressActionBar(data.percentageDone.toFixed(2), "Read file");
           if(data.percentageDone >= 100 && !(typeof(intv) === "number")) {
             intv = setInterval(() => {
-              this.client.core(`/minecraft:title @a[tag=!nomusic] actionbar "§eNightBot §8| §aParsing to tonejs/midi format..."`); 
+              this.client.core(`/minecraft:title @a[tag=!nomusic] actionbar "§e${config.botMetadata.name} §8| §aParsing to tonejs/midi format..."`); 
             }, 1000)
           }
         } else if (data.type == "progress_convert") {

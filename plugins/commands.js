@@ -122,7 +122,7 @@ bot.on("chat", (username, msg, rawusername, rawmsg, verified, orig) => {
           return bots[opts.name].core(
             tellraw("@a", [
               {
-                text: "NightBot",
+                text: config.botMetadata.name,
                 color: "yellow",
               },
               {

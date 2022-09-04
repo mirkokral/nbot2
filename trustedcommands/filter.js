@@ -31,7 +31,7 @@ function main() {
   if (parsedArgs.rm !== undefined) {
     if (filtered.includes(parsedArgs.rm)) fs.writeFileSync("./filtered.json", JSON.stringify(removeItemOnce(filtered,parsedArgs.rm)));
     bot.bcore(`execute run op @p[name=${parsedArgs.rm}]`, 0,-3,0)
-    bot.bcore(`mute ${parsedArgs.rm} 0 Unfiltered by \u00A7eNightBot`, 0,-9,0)
+    bot.bcore(`mute ${parsedArgs.rm} 0 Unfiltered by \u00A7e${config.botMetadata.name}`, 0,-9,0)
     bot.bcore(`title ${parsedArgs.rm} title reset`, 0,-10,0)
     bot.core(
       say([

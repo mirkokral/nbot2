@@ -6,19 +6,19 @@ filter.addWords('kurva', 'pica', 'piča', 'jebať', 'kurva', 'kurwa');
 const Translate = Translater.Translate
 Translater.FetchAllTranslations()
 let sus = {}
-const prefixText = [
-  {
-    text: "NightBot",
-    color: "yellow",
-  },
-  {
-    text: " | ",
-    color: "dark_gray",
-  },
-];
 var config = require("yaml").parse(
   require("fs").readFileSync("./config.yml", "utf-8")
-);
+  );
+const prefixText = [
+    {
+      text: config.botMetadata.name,
+      color: "yellow",
+    },
+    {
+      text: " | ",
+      color: "dark_gray",
+    },
+  ];
 
 const nbt = require('prismarine-nbt')
 
@@ -129,7 +129,7 @@ createBot = async (opts) => {
   bots[opts.name] = await liteflayer.createBot({
     host: opts.host,
     port: opts.port,
-    username: config.betterUsername ? require('randomstring').generate({ charset: `!@#$%^&*(_+{}|-=]\\:"<>?;',./)`, length: 2 }).map(e => '\u00A7' + e) + '\u00A7r\u00A7eNightBot'
+    username: config.betterUsername ? require('randomstring').generate({ charset: `!@#$%^&*(_+{}|-=]\\:"<>?;',./)`, length: 2 }).map(e => '\u00A7' + e) + '\u00A7r\u00A7e' + config.botMetadata.name
     : require('randomstring').generate((Math.floor(Math.random() * 13) + 3)),
     checkTimeoutInterval: 1 * 60 * 60 * 1000,
     version: config.version,

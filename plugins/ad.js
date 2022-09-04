@@ -7,7 +7,7 @@ setInterval(() => {
         bold: false,
       },
       {
-        text: " NightBot.\n",
+        text: ` ${config.botMetadata.name}.\n`,
         color: "yellow",
         bold: false,
       },
