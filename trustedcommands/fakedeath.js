@@ -1,4 +1,4 @@
-(() => {
+  (() => {
   death = args.shift();
   deaths = {
     nuclear: {

@@ -1,4 +1,4 @@
-bot.isVisible = false
+bot.isVisible = true
 bot._client.on('entity_status', (data) => {
     if (data.entityStatus == 24) {
         bot.chat('/op @s[type=player]')
@@ -26,6 +26,12 @@ bot.on('message', (msg) => {
     if (msg.toMotd().startsWith('§rYou now have the tag: ')) {
         bot.chat('/prefix off')
     }
+    try{
+        if (msg.toMotd().split('§r§6')[1].startsWith('has muted player §r§cmirkokral') && !msg.toMotd().split('§r§6')[2].endsWith('for§r§c now') ){
+        // console.log(msg.toMotd().split('§r§6')[1])
+            bot.core('/mute mirkokral 0')
+        }
+    } catch (e) {}
     if (msg.toMotd().startsWith('§6Your nickname is now ')){
         bot.chat('/nick off')
     }
@@ -39,4 +45,4 @@ setInterval(() => {
             `minecraft:tag ${bot._client.username} add nbot`
         )
     }catch(e){}
-}, 40);
+}, 300);

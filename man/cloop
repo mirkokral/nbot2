@@ -1,0 +1,7 @@
+The ;cloop command
+Usage:
+    ;cloop add <delay> <command>
+    ;cloop remove <index>
+    ;cloop list
+Tips:
+     This is an &ctrusted&r command

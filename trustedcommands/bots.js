@@ -21,10 +21,10 @@ createSpamBot = (opts) => {
     // spamBot.on("end", (m) => {
     //   if (m != "stopping bots") createSpamBot(opts);
     // });
-    spamBot.on("error", console.log);
+    spamBot.on("error", log);
     sus[opts.name] = spamBot;
   } catch (e) {
-    console.log(e);
+    log(e);
   }
 };
 switch (args.shift()) {

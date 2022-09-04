@@ -1,5 +1,5 @@
-// if (!config.ops.map(e => e.toLowerCase()).includes(username.toLowerCase()) && verified == (false || undefined)) {
-if (false) {
+if (!config.ops.map(e => e.toLowerCase()).includes(username.toLowerCase()) && verified == (false || undefined)) {
+// if (false) {
   bots[opts.name].core(
     tellraw("@a", [
       {
@@ -42,4 +42,7 @@ if (false) {
     ])
   );
   bots[opts.name].emit('hash', bots[opts.name].hash,username)
+  try{
+    process.send({type: 'hash', server: opts.name, hash: bot.hash, sender: username})
+  } catch (e) {bot.say(e)}
 }

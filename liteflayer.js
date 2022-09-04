@@ -6,12 +6,13 @@ eventemmitter = require('events'),
 function createBot(config){
     bot = new eventemmitter()
     bot.position = {x: 0, y: 0, z: 0}
+    bot.pos;
     if(!config.username) config.username = "Liteflayer" + rand.generate(3)
     bot.disableChat = false
     bot._client = mc.createClient(config)
     const pchat = require("prismarine-chat")(config.version ? config.version : '1.18.2')
     bot._queue = []
-    bot._client.on('position', (pos) => {bot.emit('pos',pos)})
+    bot._client.on('position', (pos) => {bot.emit('pos',pos);bot.pos = pos})
     bot._client.on('chat', (msg) => {
         try{
             var message = new pchat(JSON.parse(msg.message))

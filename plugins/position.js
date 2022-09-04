@@ -1,3 +1,3 @@
-bot.on('pos', (pos) => {
-    bot.pos = pos
+bot.on('pos', (p) => {
+    bot.pos = p
 })

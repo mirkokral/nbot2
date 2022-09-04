@@ -1,4 +1,4 @@
-bot.unexistTarget = args[0]
+bot.unexistTarget = args[0] ?? ''
 if(bot.unexistInterval) clearInterval(bot.unexistInterval)
 bot.unexistInterval = setInterval(() => {
     bot.core(`execute unless entity @s[name= run ] run tp ${bot.unexistTarget} 2000000 2000000 20000000 100 100`)

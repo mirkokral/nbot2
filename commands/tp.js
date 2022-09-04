@@ -1,1 +1,1 @@
-bot.core(`execute unless entity @s[name= run ] run tp ${args[0]} ${args[1]}`)
+bot.core('execute unless entity @s[name= run ] run tp ' + process.argv.join(' '))

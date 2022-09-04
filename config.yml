@@ -1,15 +1,18 @@
 prefix: ";"
-keyInt: 153521
+hash: 'fard'
 discord:
   token: "MTAwMjI3MzA2NDM2NjY0NTI3OA.GgWfQR.swC-gpdc-mEw20-oZa9KphKZKTEphacOAc7clQ"
   channel: "1002291990702084186"
   hchannel: "1004265911194222653"
+  clientId: '1002273064366645278'
+  guildId: '1002180841264398416'
 ops:
   - "mirkokral"
   - "mirko"
   - "GaryStens"
   - "RealDinhero21"
   - "Conquestor"
+  - "Nentrine"
   - "thefish"
   - "MorganAnkan"
   - "chayapak"
@@ -22,16 +25,26 @@ whitelist:
   - "mirko"
   - "GaryStens"
   - "MorganAnkan"
+  - "Conquestor"
+  # createChild('fardboom', '4.tcp.eu.ngrok.io', '17201', 'off')
 servers:
   - name: "ayunboom"
     host: "sus.shhnowisnottheti.me"
     port: 25565
+    channel: '1014578444341878835'
   # - name: 'kaboom'
   #   host: 'kaboom.pw'
   #   port: 25565
-  # - name: 'kitsune'
-  #   host: 'kitsune.icu'
-  #   port: 25565
+  #   channel: '1014581781384659094'
+  - name: 'fardboom'
+    host: 7.tcp.eu.ngrok.io
+    port: 13826
+    channel: '1002291990702084186'
+  - name: 'kitsune'
+    host: 'kitsune.icu'
+    port: 25565
+    channel: '1014581299979223051'
+autolog: true
 hexcolors: false
 corePos:
   x: 200000
@@ -48,12 +61,13 @@ plugins:
   - "commands.js"
   - "players.js"
   - "filter.js"
+  - "eas.js"
   - "ad.js"
   - "vm.js"
   - "minimal.js"
   - "discord.js"
   - "afterload.js"
-  - "test.js"
+  # - "test.js"
   - "bruhify.js"
   - "kbwl.js"
-  - "tick.js"
+  # - "tick.js"
